@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/decomposition/static/css/main.073c9b0a.css",
+    "main.js": "/decomposition/static/js/main.b7ec8bfe.js",
+    "static/js/787.26108f14.chunk.js": "/decomposition/static/js/787.26108f14.chunk.js",
+    "index.html": "/decomposition/index.html",
+    "main.073c9b0a.css.map": "/decomposition/static/css/main.073c9b0a.css.map",
+    "main.b7ec8bfe.js.map": "/decomposition/static/js/main.b7ec8bfe.js.map",
+    "787.26108f14.chunk.js.map": "/decomposition/static/js/787.26108f14.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.b7ec8bfe.js"
+  ]
+}
